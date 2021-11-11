@@ -18,3 +18,4 @@ The distribution of length of stay in ICU is derived from a multicenter registry
 
 As cutpoints, we use the estimated ICU load on day t_0+14 (which resembles the covid-19 ICU load if the behavior stays the same in 2 weeks).  Cutpoints are chosen in correspondence to the hospital contingency plan in Belgium consisting of 5 different phases while focusing on covid-19 related ICU care: Phase 0: 303 ICU-beds; Phase 1A: 528 ICU-beds; Phase 1B: 987 ICU-beds; Phase 2A: 1502 ICU-beds; Phase 2B: 2019 ICU-beds. Note that within this scheme the total number of patients (covid-19 and non-covid-19) in ICU moves from 2001 (Phase 0, 1A & 1B) to 2304 (Phase 2A) and 2821 (Phase 2B) and thus non-covid-19 care gradually decreases with an increase in phases. 						
 	
+The latest cliquets graph is available at https://gjbex.github.io/DSI_UHasselt_covid_dashboard/
